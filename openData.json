@@ -36,7 +36,51 @@
                 "parole":"lien vers fichier.txt",
                 "annee":2002,
                 "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Mikozy",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Rakala",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Ajanony",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Leo",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Rahoviana",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Tsy adala",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
             }
+            
+
 
         ]
     }
