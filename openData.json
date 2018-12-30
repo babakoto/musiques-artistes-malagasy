@@ -1,0 +1,16 @@
+
+[
+  {
+    "artiste":"Ambondrona",
+    "musiques":
+    [
+      {
+        "1":"musique 1",
+        "annee":2009,
+        "categorie":
+      },
+      {"2":"musique 2"},
+      {"3":"musique 3"}
+    ]
+  }
+]
