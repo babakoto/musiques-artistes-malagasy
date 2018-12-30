@@ -29,6 +29,13 @@
                 "parole":"lien vers fichier.txt",
                 "annee":2002,
                 "karaoke":"lien vers fichier karaoke"
+            },
+            {
+                "titre":"Averiko",
+                "categorie":"slow",
+                "parole":"lien vers fichier.txt",
+                "annee":2002,
+                "karaoke":"lien vers fichier karaoke"
             }
 
         ]
