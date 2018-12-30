@@ -2,85 +2,105 @@
     {
         "artiste":{
             "nom":"Ambondrona",
+            "photo":"http://tononkira.serasera.org/media/tononkira/o/Ambondrona-1.gif",
             "email":"ambondrona@gmail.com",
             "telephone":"+2613200000000",
             "site":"lien vers site web",
             "facebook":"lien vers page facebook",
-            "Instagram":"lien vers instagram"
+            "Instagram":"lien vers instagram",
+            "youtube":"lien chaine youtube"
         },
         "Musiques":[
             {
                 "titre":"Nivadika",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video.mp4",
+                "audio":"lien vers fichier.mp3",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Maty aho",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Tsy adala aho",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Averiko",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Mikozy",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Rakala",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Ajanony",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Leo",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Rahoviana",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             },
             {
                 "titre":"Tsy adala",
                 "categorie":"slow",
-                "parole":"lien vers fichier.txt",
                 "annee":2002,
-                "karaoke":"lien vers fichier karaoke"
+                "video":"lien vers video",
+                "audio":"lien vers fichier",
+                "parole":"lien vers fichier.txt",
+                "karaoke":"lien vers fichier karaoke.mp4"
             }
-            
-
 
         ]
     }
